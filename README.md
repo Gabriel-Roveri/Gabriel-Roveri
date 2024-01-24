@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-roveri" alt="gabriel-roveri" /></a> </p>
 
-- 🔭 I’m currently working on [Terraform studies](https://github.com/Gabriel-Roveri/terraform-project.git)
+- 🔭 I’m currently working on [CI/CD studies](https://github.com/Gabriel-Roveri/CI.git)
 
 - 🌱 I’m currently learning **Terraform, Ansible,Docker, and more of Devops.**
 
