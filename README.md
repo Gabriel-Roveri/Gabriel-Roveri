@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-roveri" alt="gabriel-roveri" /></a> </p>
 
-- 🔭 I’m currently working on [API with NodeJS](https://github.com/Gabriel-Roveri/nodejs-api.git)
+- 🔭 I’m currently working on [API with NodeJS](https://github.com/Gabriel-Roveri/nodejs-api.git) & [Servicenow App](https://github.com/Gabriel-Roveri/visitingnow.git)
 
 - 🌱 I’m currently learning **Terraform, Ansible,Docker, and more of Devops.**
 
