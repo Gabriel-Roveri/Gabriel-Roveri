@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-roveri" alt="gabriel-roveri" /></a> </p>
 
-- 🔭 I’m currently working on [Learning about Sequelize](https://github.com/Gabriel-Roveri/api-express-sequelize.git)
+- 🔭 I’m currently working on [Learning about Sequelize](https://github.com/Gabriel-Roveri/employees-manager.git)
 
 - 🌱 I’m currently learning **Terraform, Ansible,Docker, and more of Devops.**
 
