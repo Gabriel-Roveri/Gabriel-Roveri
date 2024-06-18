@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Learning about Sequelize](https://github.com/Gabriel-Roveri/employees-manager.git)
 
-- 🌱 I’m currently learning **Terraform, Ansible,Docker, and more of Devops.**
+- 🌱 I’m currently learning **Javascript, NodeJS, SQL, Typescript, and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Roveri](https://github.com/Gabriel-Roveri)
 
